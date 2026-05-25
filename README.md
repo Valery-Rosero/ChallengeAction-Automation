@@ -1,4 +1,4 @@
-# Choucair Reto Técnico — Automatización Web
+# Automatización Web
 
 Proyecto de automatización web desarrollado con **Java + Selenium + Cucumber + POM (Page Object Model)** sobre la página [Demo Web Shop Tricentis](https://demowebshop.tricentis.com/).
 
